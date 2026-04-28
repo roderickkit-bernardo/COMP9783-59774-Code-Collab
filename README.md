@@ -5,7 +5,7 @@ COMP9783-59774 Frontend Developers
 | Developer Name        | Branch Name | Status  |
 | --------------------- | ----------- | ------- |
 | Bannon, Kane          | fb-kb       | Pending |
-| Bernardo, Roderick    | fb-rb       | Pending |
+| Bernardo, Roderick    | fb-rb       | Done    |
 | Depaul, Aidan         | fb-ad       | Pending |
 | Johnson, Ewaoluwa     | fb-ej       | Pending |
 | Lee, Hyun Jin         | fb-hl       | Pending |
