@@ -13,4 +13,4 @@ COMP9783-59774 Frontend Developers
 | Pritchard, Glenn      | fb-gp       | Pending |
 | Trinh, Nhat Khoi      | fb-nt       | Pending |
 | Vettoretto, Christian | fb-cv       | Pending |
-| Yadav, Priyanka       | fb-py       | Pending |
+| Yadav, Priyanka       | fb-py       | Done    |
