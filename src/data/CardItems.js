@@ -13,4 +13,11 @@ export const CardItems = [
     gitHubUserName: "@priyankanyadav",
     quote: "Code is like humor. When you have to explain it, it’s bad.",
   },
+
+  {
+    gitHubAvatar: "https://github.com/kanebannon-rgb.png",
+    fullName: "Kane Bannon",
+    gitHubUserName: "@kanebannon-rgb",
+    quote: "If it works, don't touck it.",
+  },
 ];
